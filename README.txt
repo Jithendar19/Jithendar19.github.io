@@ -3,9 +3,6 @@ Credits:
 	Template :
 		HTML5Up
 		
-	Demo Images:
-		Michael Domaradzki (md.photomerchant.net)
-
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
 
